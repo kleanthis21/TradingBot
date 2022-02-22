@@ -25,7 +25,7 @@ class BinanceFuturesClient:
 
         self.prices = dict()
 
-        logger.info("Binance Futures Client successfully initialized")
+        logger.info("Binance Futures Clien successfully initialized")
 
     def generate_signature(self, data):
         return hmac.new(self.secret_key.encode(), urlencode(data).encode(), hashlib.sha256).hexdigest()
