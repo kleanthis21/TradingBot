@@ -1,0 +1,42 @@
+2022-01-09 22:45:02,244 WARNING :: blablabla3
+2022-01-09 22:45:02,244 ERROR :: blablabla4
+2022-01-09 22:46:00,302 WARNING :: blablabla3
+2022-01-09 22:46:00,302 ERROR :: blablabla4
+2022-01-09 22:50:18,669 WARNING :: blablabla3
+2022-01-09 22:50:18,669 ERROR :: blablabla4
+2022-01-09 22:52:37,462 WARNING :: blablabla3
+2022-01-09 22:52:37,462 ERROR :: blablabla4
+2022-01-09 22:52:52,841 WARNING :: blablabla3
+2022-01-09 22:52:52,841 ERROR :: blablabla4
+2022-01-09 22:53:05,517 WARNING :: blablabla3
+2022-01-09 22:53:05,517 ERROR :: blablabla4
+2022-01-09 22:53:17,191 WARNING :: blablabla3
+2022-01-09 22:53:17,191 ERROR :: blablabla4
+2022-01-09 22:55:26,216 WARNING :: blablabla3
+2022-01-09 22:55:26,216 ERROR :: blablabla4
+2022-01-09 22:55:26,217 WARNING :: Hello from Binance
+2022-01-09 22:56:25,992 WARNING :: blablabla3
+2022-01-09 22:56:25,992 ERROR :: blablabla4
+2022-01-09 22:56:25,992 WARNING :: Hello from Binance
+2022-01-09 22:57:05,995 WARNING :: blablabla3
+2022-01-09 22:57:05,995 ERROR :: blablabla4
+2022-01-09 22:57:05,995 WARNING :: Hello from Binance
+2022-01-09 22:57:28,616 WARNING :: blablabla3
+2022-01-09 22:57:28,616 ERROR :: blablabla4
+2022-01-09 22:57:28,616 WARNING :: Hello from Binance
+2022-01-10 22:12:44,220 WARNING :: Binance Futures initialized 
+2022-01-10 22:13:23,148 WARNING :: Binance Futures initialized 
+2022-01-10 22:13:32,833 WARNING :: Binance Futures initialized 
+2022-01-10 22:14:33,551 WARNING :: Binance Futures initialized 
+2022-01-10 22:17:31,619 WARNING :: Binance Futures initialized 
+2022-01-10 22:18:18,883 WARNING :: Binance Futures initialized 
+2022-01-10 22:19:24,308 WARNING :: Binance Futures initialized 
+2022-01-10 22:20:02,873 WARNING :: Binance Futures initialized 
+2022-01-10 22:22:03,041 WARNING :: Binance Futures initialized 
+2022-01-10 23:41:41,262 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2022-02-18 22:26:29,766 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2022-02-18 22:26:30,582 ERROR :: Error while making GET request to /fapi/v1/order: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2022-02-18 22:26:31,385 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2022-02-18 22:26:55,052 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2022-02-18 22:27:16,968 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2022-02-18 22:27:59,925 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
