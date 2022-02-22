@@ -43,7 +43,7 @@ class BinanceFuturesClient:
         if response.status_code == 200:
             return response.json()
         else:
-            logger.error("Error while making %s request to %s: %s (error code %s)",
+            logger.error("Error   while  making %s request to %s: %s (error code %s)",
                          method, endpoint, response.json(), response.status_code)
             return None
 
