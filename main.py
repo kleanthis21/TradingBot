@@ -18,7 +18,7 @@ file_handler.setLevel(logging.DEBUG)
 logger.addHandler(stream_handler)
 logger.addHandler(file_handler)
 
-#fdsfsd
+
 if __name__ == '__main__':
 
     binance = BinanceFuturesClient("5d95ba313ab9acdd29ef68cf9ae779dc0b35f17f75443d90ee17335d7e2bf457",

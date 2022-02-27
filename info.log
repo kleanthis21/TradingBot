@@ -40,3 +40,4 @@
 2022-02-18 22:26:55,052 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
 2022-02-18 22:27:16,968 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
 2022-02-18 22:27:59,925 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2022-02-22 23:00:45,772 ERROR :: Error   while  making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
