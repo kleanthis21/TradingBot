@@ -1,7 +1,7 @@
 import tkinter as tk
 import logging
 
-#from connectors.bitmex import BitmexClient
+from connectors.bitmex import BitmexClient
 from connectors.binance_futures import BinanceFuturesClient
 
 from interface.styling import *
