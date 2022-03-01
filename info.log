@@ -44,3 +44,88 @@
 2022-02-28 22:38:10,420 INFO :: Binance Futures Client successfully initialized
 2022-02-28 22:38:11,458 INFO :: Binance connection opened
 2022-02-28 22:38:11,458 ERROR :: error from callback <bound method BinanceFuturesClient._on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x000002787ED2A588>>: 'BinanceFuturesClient' object has no attribute 'contracts'
+2022-02-28 23:14:55,114 INFO :: Binance Futures Client successfully initialized
+2022-02-28 23:14:55,582 INFO :: Bitmex Client successfully initialized
+2022-02-28 23:14:56,192 INFO :: Binance connection opened
+2022-02-28 23:14:56,291 INFO :: Bitmex connection opened
+2022-02-28 23:26:26,508 INFO :: Binance Futures Client successfully initialized
+2022-02-28 23:26:26,941 INFO :: Bitmex Client successfully initialized
+2022-02-28 23:26:27,371 INFO :: Bitmex connection opened
+2022-02-28 23:26:27,536 INFO :: Binance connection opened
+2022-02-28 23:51:09,196 INFO :: Binance Futures Client successfully initialized
+2022-02-28 23:51:09,601 INFO :: Bitmex Client successfully initialized
+2022-02-28 23:51:10,003 INFO :: Bitmex connection opened
+2022-02-28 23:51:10,275 INFO :: Binance connection opened
+2022-03-01 22:58:38,503 INFO :: Binance Futures Client successfully initialized
+2022-03-01 22:58:39,036 INFO :: Bitmex Client successfully initialized
+2022-03-01 22:58:39,686 INFO :: Binance connection opened
+2022-03-01 22:58:39,769 INFO :: Bitmex connection opened
+2022-03-01 23:42:03,098 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:42:28,470 INFO :: Binance Futures current USDT balance = 100000.0, trade size = 0.228
+2022-03-01 23:42:28,470 INFO :: Short signal on BTCUSDT 1m
+2022-03-01 23:42:29,293 INFO :: Sell order placed on Binance | Status: new
+2022-03-01 23:42:31,598 INFO :: Binance order status: filled
+2022-03-01 23:43:01,915 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:44:05,793 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:45:01,479 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:46:01,909 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:47:01,110 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:48:02,178 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:49:01,373 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:50:08,644 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:51:21,042 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:52:01,807 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:53:00,721 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:54:02,602 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:55:07,194 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:56:01,751 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:58:02,052 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-01 23:59:02,067 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:00:03,104 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:01:01,935 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:02:01,816 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:03:02,194 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:04:04,653 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:05:02,875 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:06:01,925 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:07:03,836 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:08:01,376 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:09:01,190 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:16:39,556 INFO :: Binance Futures Client successfully initialized
+2022-03-02 00:16:40,126 INFO :: Bitmex Client successfully initialized
+2022-03-02 00:16:40,576 INFO :: Bitmex connection opened
+2022-03-02 00:16:40,649 INFO :: Binance connection opened
+2022-03-02 00:19:06,061 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:19:07,487 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:19:10,883 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:19:13,874 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:19:14,904 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:19:20,448 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:19:22,065 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:19:22,216 ERROR :: error from callback <bound method BinanceFuturesClient._on_message of <connectors.binance_futures.BinanceFuturesClient object at 0x0000023934F22550>>: '>' not supported between instances of 'float' and 'Candle'
+2022-03-02 00:20:35,500 INFO :: Binance Futures Client successfully initialized
+2022-03-02 00:20:35,880 INFO :: Bitmex Client successfully initialized
+2022-03-02 00:20:36,301 INFO :: Bitmex connection opened
+2022-03-02 00:20:36,569 INFO :: Binance connection opened
+2022-03-02 00:21:00,846 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:22:04,064 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:23:16,602 INFO :: Binance Futures current USDT balance = 99996.01380304, trade size = 2.048
+2022-03-02 00:23:16,602 INFO :: Long signal on BTCUSDT 1m
+2022-03-02 00:23:17,415 INFO :: Buy order placed on Binance | Status: new
+2022-03-02 00:23:20,252 INFO :: Binance order status: filled
+2022-03-02 00:24:03,461 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:24:40,904 INFO :: Binance Futures current USDT balance = 99905.61170257, trade size = 2.046
+2022-03-02 00:24:40,910 INFO :: Long signal on BTCUSDT 1m
+2022-03-02 00:24:41,725 INFO :: Buy order placed on Binance | Status: new
+2022-03-02 00:24:44,553 INFO :: Binance order status: filled
+2022-03-02 00:25:07,977 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:26:04,153 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:27:03,891 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:28:01,117 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:29:13,833 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:30:01,792 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:31:02,635 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-02 00:31:22,961 INFO :: Binance Futures current USDT balance = 99869.63819401, trade size = 1.137
+2022-03-02 00:31:22,962 INFO :: Short signal on BTCUSDT 1m
+2022-03-02 00:31:23,783 INFO :: Sell order placed on Binance | Status: new
+2022-03-02 00:31:26,615 INFO :: Binance order status: filled

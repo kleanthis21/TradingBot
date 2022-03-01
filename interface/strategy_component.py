@@ -47,7 +47,8 @@ class StrategyEditor(tk.Frame):
 
         self._base_params = [
             {"code_name": "strategy_type", "widget": tk.OptionMenu, "data_type": str,
-             "values": ["Technical", "Breakout"], "width": 10},
+             "values": ["Breakout"], "width": 10},
+             #"values": ["Technical", "Breakout"], "width": 10},
             {"code_name": "contract", "widget": tk.OptionMenu, "data_type": str, "values": self._all_contracts,
              "width": 15},
             {"code_name": "timeframe", "widget": tk.OptionMenu, "data_type": str, "values": self._all_timeframes,
